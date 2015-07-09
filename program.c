@@ -1,0 +1,4 @@
+#include<stid.h>
+main()
+{
+}
